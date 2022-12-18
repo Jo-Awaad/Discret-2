@@ -1,0 +1,15 @@
+C:\Faculty\Discret 2\bin\Debug\net7.0\Discret 2.exe
+C:\Faculty\Discret 2\bin\Debug\net7.0\Discret 2.deps.json
+C:\Faculty\Discret 2\bin\Debug\net7.0\Discret 2.runtimeconfig.json
+C:\Faculty\Discret 2\bin\Debug\net7.0\Discret 2.dll
+C:\Faculty\Discret 2\bin\Debug\net7.0\Discret 2.pdb
+C:\Faculty\Discret 2\obj\Debug\net7.0\Discret 2.csproj.AssemblyReference.cache
+C:\Faculty\Discret 2\obj\Debug\net7.0\Discret 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculty\Discret 2\obj\Debug\net7.0\Discret 2.AssemblyInfoInputs.cache
+C:\Faculty\Discret 2\obj\Debug\net7.0\Discret 2.AssemblyInfo.cs
+C:\Faculty\Discret 2\obj\Debug\net7.0\Discret 2.csproj.CoreCompileInputs.cache
+C:\Faculty\Discret 2\obj\Debug\net7.0\Discret 2.dll
+C:\Faculty\Discret 2\obj\Debug\net7.0\refint\Discret 2.dll
+C:\Faculty\Discret 2\obj\Debug\net7.0\Discret 2.pdb
+C:\Faculty\Discret 2\obj\Debug\net7.0\Discret 2.genruntimeconfig.cache
+C:\Faculty\Discret 2\obj\Debug\net7.0\ref\Discret 2.dll
